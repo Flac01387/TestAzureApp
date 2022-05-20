@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\afore.jorozco\\source\\repos\\CursoPlatzi\\TestAzureApp\\TestAzureApp.csproj": {}
+    "C:\\Users\\afore.jorozco\\Desktop\\WebApp\\TestAzureApp\\TestAzureApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\afore.jorozco\\source\\repos\\CursoPlatzi\\TestAzureApp\\TestAzureApp.csproj": {
+    "C:\\Users\\afore.jorozco\\Desktop\\WebApp\\TestAzureApp\\TestAzureApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\afore.jorozco\\source\\repos\\CursoPlatzi\\TestAzureApp\\TestAzureApp.csproj",
+        "projectUniqueName": "C:\\Users\\afore.jorozco\\Desktop\\WebApp\\TestAzureApp\\TestAzureApp.csproj",
         "projectName": "TestAzureApp",
-        "projectPath": "C:\\Users\\afore.jorozco\\source\\repos\\CursoPlatzi\\TestAzureApp\\TestAzureApp.csproj",
+        "projectPath": "C:\\Users\\afore.jorozco\\Desktop\\WebApp\\TestAzureApp\\TestAzureApp.csproj",
         "packagesPath": "C:\\Users\\afore.jorozco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\afore.jorozco\\source\\repos\\CursoPlatzi\\TestAzureApp\\obj\\",
+        "outputPath": "C:\\Users\\afore.jorozco\\Desktop\\WebApp\\TestAzureApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
