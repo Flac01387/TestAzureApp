@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\afore.jorozco\\Desktop\\WebApp\\PlatziWebsite\\PlatziWebsite.csproj",
+      "projectUniqueName": "C:\\Users\\afore.jorozco\\Desktop\\WebApp\\TestAzureApp\\PlatziWebsite\\PlatziWebsite.csproj",
       "projectName": "PlatziWebsite",
-      "projectPath": "C:\\Users\\afore.jorozco\\Desktop\\WebApp\\PlatziWebsite\\PlatziWebsite.csproj",
+      "projectPath": "C:\\Users\\afore.jorozco\\Desktop\\WebApp\\TestAzureApp\\PlatziWebsite\\PlatziWebsite.csproj",
       "packagesPath": "C:\\Users\\afore.jorozco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\afore.jorozco\\Desktop\\WebApp\\PlatziWebsite\\obj\\",
+      "outputPath": "C:\\Users\\afore.jorozco\\Desktop\\WebApp\\TestAzureApp\\PlatziWebsite\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
