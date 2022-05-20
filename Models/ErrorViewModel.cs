@@ -1,6 +1,6 @@
 using System;
 
-namespace PlatziWebsite.Models
+namespace TestAzureApp.Models
 {
     public class ErrorViewModel
     {
